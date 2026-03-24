@@ -62,7 +62,10 @@ The goal of this project is to build a deep learning model that can detect wheth
 (Add screenshots here if possible)
 
 ---
-![images alt]()
+![images alt](https://github.com/Ayush-ak47/face-mask-detection/tree/70db92d40111fb26165456cbd745e9c3bcf5f2d8/face%20mask%20detection)
+
+
+
 ## 🚀 Applications
 - Public safety monitoring  
 - Airport / railway station surveillance  
